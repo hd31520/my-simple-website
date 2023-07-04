@@ -2,3 +2,18 @@ div{
     background-color: tomato;
     padding: 10px;
 }
+.left{
+    align-items: start;
+    width: 50%;
+}
+.right{
+    width: 50%;
+    align-items: end;
+}
+img{
+    width: 300px;
+    display: flex;
+}
+.erdogan{
+    display: flex;
+}
