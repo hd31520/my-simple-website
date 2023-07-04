@@ -11,7 +11,7 @@ div{
     align-items: end;
 }
 img{
-    width: 300px;
+    max-width: 200px;
     display: flex;
 }
 .erdogan{
